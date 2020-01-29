@@ -1,3 +1,5 @@
+guy
+
 The smaple 
 
 purple
@@ -5,9 +7,11 @@ orange
 green
 red
 silver
+indigo
 blue
 green
 yellow
 There are colores of the renbow  
 
 The sample
+guy
