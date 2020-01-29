@@ -5,6 +5,7 @@ orange
 green
 red
 silver
+indigo
 blue
 green
 yellow
