@@ -1,3 +1,5 @@
+The smaple 
+
 purple
 orange
 green
@@ -7,3 +9,5 @@ blue
 green
 yellow
 There are colores of the renbow  
+
+The sample
